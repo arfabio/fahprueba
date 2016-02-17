@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-prueba 2
-=======
 usuario2
->>>>>>> usuario2
+master
